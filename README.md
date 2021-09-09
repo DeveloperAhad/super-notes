@@ -1,5 +1,5 @@
 # Super Notes 
-## Create your note easily
+### Create your note easily
 ![alt text](https://i.ibb.co/Dz8gT2N/Screenshot-1.png)
 # Getting Started with Create React App
 
